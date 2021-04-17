@@ -16,7 +16,7 @@ I I wanna be Game-dev, Software-dev from VietNam <img width="21px" src="/assets/
 - 👨‍💻 I’m currently working on project [Waitting...](https://github.com/Long18)
 - 📚 I’m currently learning Unity & Software
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Long18&show_icons=true&include_all_commits=true&theme=algolia" alt="William's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Long18&theme=radical&show_icons=true" alt="William's github stats"/>
 <br/>
 
 
