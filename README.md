@@ -11,7 +11,7 @@
 <br />
 <br />
 
-I am Game-dev, Software-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I I wanna be Game-dev, Software-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [Waitting...](https://github.com/Long18)
 - 📚 I’m currently learning Unity & Software
