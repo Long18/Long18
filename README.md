@@ -1,5 +1,5 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
-![](https://komarev.com/ghpvc/?username=Long18)
+![](https://komarev.com/ghpvc/?username=Long18&color=red)
 
 <a href="https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw">
   <img align="left" alt="William | YouTube" width="24px" src="/assets/youtube.svg"/>
