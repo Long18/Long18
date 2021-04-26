@@ -1,4 +1,5 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
+![](https://komarev.com/ghpvc/?username=Long18)
 
 <a href="https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw">
   <img align="left" alt="William | YouTube" width="24px" src="/assets/youtube.svg"/>
@@ -23,4 +24,4 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
 
-![](https://komarev.com/ghpvc/?username=Long18)
+
