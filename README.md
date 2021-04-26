@@ -22,3 +22,5 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
+
+![](https://komarev.com/ghpvc/?username=Long18)
