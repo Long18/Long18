@@ -1,6 +1,6 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lê Nguyễn Thành Long ( William )-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william186/)](https://www.linkedin.com/in/william186/)
+[![Linkedin Badge](https://img.shields.io/badge/-L%C3%AA%20Nguy%E1%BB%85n%20Th%C3%A0nh%20Long%20(%20William%20)-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william186/)](https://www.linkedin.com/in/william186/)
 
 ![](https://komarev.com/ghpvc/?username=Long18&color=red)
 ![](https://visitor-badge.glitch.me/badge?page_id=Long18)
