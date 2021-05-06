@@ -1,5 +1,10 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lê Nguyễn Thành Long ( William )-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william186/)](https://www.linkedin.com/in/william186/)
+
 ![](https://komarev.com/ghpvc/?username=Long18&color=red)
+![](https://visitor-badge.glitch.me/badge?page_id=Long18)
+
 
 <a href="https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw">
   <img align="left" alt="William | YouTube" width="24px" src="/assets/youtube.svg"/>
@@ -24,4 +29,6 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
 
+<img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
+<img alt="Forks" src="https://img.shields.io/github/forks/Long18/Long18?style=flat-square&labelColor=343b41"/></p>
 
