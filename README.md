@@ -19,7 +19,7 @@
 
 I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
-- 👨‍💻 I’m currently working on project [Waitting...](https://github.com/Long18)
+- 👨‍💻 I’m currently working on project [Fitness Care (Android Studio - Java)](https://github.com/Long18/FitnessCare)
 - 📚 I’m currently learning Unity & Software
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Long18&theme=radical&show_icons=true" alt="William's github stats"/>
