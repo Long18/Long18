@@ -12,6 +12,8 @@
 <a href="https://twitter.com/Willlee186">
   <img align="left" alt="William   | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a>
+<img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
+<img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/>
 
 I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
@@ -22,11 +24,10 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 <br/>
 
 
-<a>
+<a href="https://github.com/Long18/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
 
-<img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
-<img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/></p>
+</p>
 </a>
 <a href="https://www.buymeacoffee.com/Williamm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
