@@ -13,10 +13,6 @@
   <img align="left" alt="William   | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a>
 
-
-<br />
-<br />
-
 I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
 - 👨‍💻 I’m currently working on project [Fitness Care (Android Studio - Java)](https://github.com/Long18/FitnessCare)
@@ -26,12 +22,12 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 <br/>
 
 
-
+<a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&layout=compact&theme=algolia"/>
 
 <img alt="Stars" src="https://img.shields.io/github/stars/Long18/Long18?style=flat-square&labelColor=343b41"/> 
 <img alt="Forks" src="https://img.shields.io/github/forks/Long18/FitnessCare?style=flat-square&labelColor=343b41"/></p>
-
+</a>
 <a href="https://www.buymeacoffee.com/Williamm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
