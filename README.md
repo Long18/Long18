@@ -24,8 +24,8 @@
 
 I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
-- 👨‍💻 I’m currently working on project [BoomBang (Android Studio - Java)](https://github.com/Long18/BoomBang)
-- 📚 I’m currently learning Unity & Software
+- 👨‍💻 I’m currently working on project...
+- 📚 I’m currently learning Unity & Unreal Engine
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Long18&theme=radical&show_icons=true" alt="William's github stats"/>
 <br/>
