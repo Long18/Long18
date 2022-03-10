@@ -10,7 +10,7 @@
 
 </p>
 
-<a href="https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw">
+<a href="https://www.youtube.com/c/William18">
   <img align="left" alt="William | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
 <a href="https://twitter.com/Willlee186">
