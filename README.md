@@ -2,6 +2,7 @@
 <tr>
   <th colspan="2" align="center">
     <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
+    [![](https://visitcount.itsvg.in/api?id=Long18&icon=6&color=4)](https://visitcount.itsvg.in)
   </th>
 </tr>
 
@@ -23,6 +24,14 @@
     <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.details.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
+</tr>
+
+<tr>
+  <th colspan="2" align="center">
+    <h3><a> 🌍 Socials </a></h3>
+    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/William.2418) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/willlee.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william186) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12710932) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/willlee186) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/William18)
+
+  </th>
 </tr>
 
 <tr>
@@ -69,11 +78,9 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 - 👨‍💻 I’m currently working on project...
 - 📚 I’m currently learning Unity & Unreal Engine
 
-## 🌐Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/William.2418) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/willlee.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william186) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12710932) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/willlee186) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/William18)
 
-[![](https://visitcount.itsvg.in/api?id=Long18&icon=6&color=4)](https://visitcount.itsvg.in)
+
 
 ## 💰You can help me by Donating
 
