@@ -1,4 +1,5 @@
-name: Half-year calendar# on:
+name: Half-year calendar
+on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit
