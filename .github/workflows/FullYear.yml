@@ -1,4 +1,4 @@
-name: Full-year
+name: Full-year calendar
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
@@ -23,7 +23,6 @@ jobs:
           # Options 
           filename: metrics.plugin.isocalendar.fullyear.svg
           user: Long18
-          template: classic
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
