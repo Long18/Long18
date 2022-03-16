@@ -22,6 +22,4 @@ jobs:
 
           # Options 
           filename: metrics.plugin.isocalendar.svg
-          user: Long18
-          base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes 

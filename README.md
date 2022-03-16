@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
+    <th align="center">📅 Commit calendar</th>
+    <th align="center">🈷️ Most used languages</th>
   </tr>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+<img alt="" width="400" src="https://github.com/Long18/Long18/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
 </td>
 <td align="center">
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
