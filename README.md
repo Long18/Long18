@@ -1,6 +1,9 @@
-<h3><a>🧩 Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋 </a></h3>
-
 <table>
+<tr>
+    <th colspan="2" align="center">
+      <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
+    </th>
+  </tr>
   <tr>
     <th align="center">📅 Commit calendar</th>
     <th align="center">🈷️ Most used languages</th>
