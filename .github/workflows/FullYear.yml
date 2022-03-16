@@ -1,4 +1,4 @@
-name: Full-year calendar
+name: Full-year
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
