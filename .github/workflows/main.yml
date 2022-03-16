@@ -61,7 +61,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: assets/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
@@ -69,6 +69,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: assets
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}

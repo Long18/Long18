@@ -1,5 +1,7 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
 
+![Metrics](/github-metrics.svg)
+
 # 💫About Me :
 
 I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
@@ -19,9 +21,6 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Long18&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Long18&icon=6&color=4)](https://visitcount.itsvg.in)
 
@@ -30,4 +29,3 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Long18/Long18/396d3adaadea3acbcd77afe1f145660426b989e7/assets/github-user-contribution.svg)
 
-![Metrics](/github-metrics.svg)
