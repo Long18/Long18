@@ -21,8 +21,37 @@
         <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.details.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
       </td>
+      <th><a>📌 Starred topics</a></th>
+    <th><a>🌟 Recently starred repositories</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+        <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.stars.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  <tr>
+    <th><a>📜 Repository licenses</a></th>
+    <th><a>💡 Coding habits</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.svg" alt=""></img></details>
+        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
+        <details open><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
 </table>
-
 
 # 💫About Me :
 
@@ -34,16 +63,6 @@ I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" sty
 ## 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/William.2418) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/willlee.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william186) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12710932) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/willlee186) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/William18)
-
-# 📊GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Long18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Long18&theme=tokyonight&hide_border=false)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Long18&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Long18&icon=6&color=4)](https://visitcount.itsvg.in)
 
