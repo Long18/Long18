@@ -9,11 +9,19 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.isocalendar.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_isocalendar: yes
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
-
+          # Options 
+          filename: metrics.plugin.isocalendar.svg
+          user: Long18
+          template: classic
+          base: header, activity, community, repositories, metadata
