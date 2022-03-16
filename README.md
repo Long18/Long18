@@ -1,6 +1,6 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](https://metrics.lecoq.io/Long18?template=classic&isocalendar=1&languages=1&poopmap=1&fortune=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=90%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&poopmap.days=7&config.timezone=Asia%2FSaigon&config.display=large)
 
 # 💫About Me :
 
