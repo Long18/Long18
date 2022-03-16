@@ -25,7 +25,7 @@ jobs:
           user: Long18
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
+          config_display: columns
           config_timezone: Asia/Saigon
           plugin_fortune: yes
           plugin_isocalendar: yes
