@@ -1,61 +1,63 @@
 <table>
 <tr>
-    <th colspan="2" align="center">
-      <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
-    </th>
-  </tr>
-  <tr>
-    <th align="center">📅 Commit calendar</th>
-    <th align="center">🈷️ Most used languages</th>
-  </tr>
-  <tr>
-    <td align="center"> 
-    <details open><summary>Half year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.isocalendar.svg" alt=""></img></details>
-        <details><summary>Full year calendar</summary><img alt="" width="400" src=" https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
-        <details><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.recent.svg" alt=""></img></details>
-        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.svg" alt=""></img></details>
-        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.details.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
+  <th colspan="2" align="center">
+    <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
+  </th>
+</tr>
 
+<tr>
+  <th align="center">📅 Commit calendar</th>
+  <th align="center">🈷️ Most used languages</th>
+</tr>
+
+<tr>
+  <td align="center"> 
+  <details open><summary>Half year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.isocalendar.svg" alt=""></img></details>
+    <details><summary>Full year calendar</summary><img alt="" width="400" src=" https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+    <td  align="center">
+    <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+    <details><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.recent.svg" alt=""></img></details>
+    <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.svg" alt=""></img></details>
+    <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.details.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
 <th><a>📌 Starred topics</a></th>
-    <th><a>🌟 Recently starred repositories</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
-        <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a>📜 Repository licenses</a></th>
-    <th><a>💡 Coding habits</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.svg" alt=""></img></details>
-        <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
-        <details open><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-      </td>
+  <th><a>🌟 Recently starred repositories</a></th>
+</tr>
+<tr>
+  <td  align="center">
+    <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
+    <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+  <td  align="center">
+    <img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.stars.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
+
+<tr>
+  <th><a>📜 Repository licenses</a></th>
+  <th><a>💡 Coding habits</a></th>
+</tr>
+
+<tr>
+  <td  align="center">
+    <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.svg" alt=""></img></details>
+    <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+    <td  align="center">
+    <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
+    <details open><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
+
 </table>
-
-
-
 
 # 💫About Me :
 
