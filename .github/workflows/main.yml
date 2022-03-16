@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: long18/metrics@latest
         with:
-          token: ${{ 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 }} 
+          token: ${{ secrets.METRICS_TOKEN }} 
