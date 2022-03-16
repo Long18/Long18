@@ -33,7 +33,7 @@
 <tr>
   <td  align="center">
     <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
-    <details><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
+    <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
   <td  align="center">
