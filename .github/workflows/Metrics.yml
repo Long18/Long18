@@ -38,6 +38,6 @@ jobs:
           plugin_nightscout_lowalert: 80
           plugin_nightscout_urgenthighalert: 250
           plugin_nightscout_urgentlowalert: 50
-          plugin_nightscout_url: https://example.herokuapp.com
+          plugin_nightscout_url: https://long18.github.io/
           plugin_poopmap: yes
           plugin_poopmap_days: 7
