@@ -6,9 +6,14 @@ on:
   workflow_dispatch:
   push: { branches: ["master", "template"] }
 jobs:
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.isocalendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+
+
