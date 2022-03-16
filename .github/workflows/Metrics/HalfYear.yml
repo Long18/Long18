@@ -1,4 +1,4 @@
-name: Half-year
+name: HalfYear
 on:
   # Schedule updates (each hour)
   schedule: [{ cron: "0 * * * *" }]
