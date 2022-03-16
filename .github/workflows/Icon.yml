@@ -18,10 +18,10 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 0

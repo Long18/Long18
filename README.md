@@ -33,7 +33,7 @@
 <tr>
   <td  align="center">
     <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
-    <details open><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
+    <details><summary>With labels</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
   <td  align="center">
@@ -50,12 +50,12 @@
 <tr>
   <td  align="center">
     <details open><summary>Permissions, limitations and conditions</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.svg" alt=""></img></details>
-    <details open><summary>Licenses overview</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
+    <details><summary>Licenses overview</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.licenses.ratio.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
     <td  align="center">
     <details open><summary>Recent activity charts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
-    <details open><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+    <details><summary>Midly interesting facts</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
   </td>
 </tr>
