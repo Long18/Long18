@@ -24,9 +24,12 @@
     <img width="900" height="1" alt="">
   </td>
 </tr>
-<th><a>📌 Starred topics</a></th>
+
+<tr>
+  <th><a>📌 Starred topics</a></th>
   <th><a>🌟 Recently starred repositories</a></th>
 </tr>
+
 <tr>
   <td  align="center">
     <details open><summary>With icons</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.topics.icons.svg" alt=""></img></details>
