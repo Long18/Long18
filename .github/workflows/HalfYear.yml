@@ -1,8 +1,13 @@
-name: Half-year calendar
+name: Half-year calendar# on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master", "template"] }
+jobs:
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.svg
   token: ${{ secrets.METRICS_TOKEN }}
-  target_branch: output
   base: ""
   plugin_isocalendar: yes
