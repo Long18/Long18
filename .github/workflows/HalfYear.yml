@@ -4,8 +4,7 @@ on:
   schedule: [{ cron: "0 * * * *" }]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: 
-    target_branch: output
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,9 +19,11 @@ jobs:
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          branch: master
 
           # Options 
           filename: metrics.plugin.isocalendar.svg
           user: Long18
+          target_branch: output
           base: header, activity, community, repositories, metadata
           plugin_isocalendar: yes 
