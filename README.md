@@ -6,12 +6,17 @@
     <th align="center">🈷️ Most used languages</th>
   </tr>
   <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/Long18/Long18/blob/main/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
+    <td align="center"> <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.languages.recent.svg" alt=""></img></details>
+        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.languages.svg" alt=""></img></details>
+        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/8c3826ca3d402e88179532d1dd165131037cfdc1/metrics.plugin.languages.details.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
 </table>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
