@@ -30,7 +30,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_presets: @lunar-red
+          config_presets: lunar-red
           config_timezone: Asia/Saigon
           config_twemoji: yes
           plugin_achievements: yes
