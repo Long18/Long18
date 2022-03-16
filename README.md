@@ -1,6 +1,6 @@
 ### Hello World 🌍 I'm [William!](https://www.facebook.com/William.2418/) 👋
 
-![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 # 💫About Me :
 
