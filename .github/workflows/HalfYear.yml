@@ -3,6 +3,6 @@ uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.isocalendar.svg
   token: ${{ secrets.METRICS_TOKEN }}
-          target_branch: output
+  target_branch: output
   base: ""
   plugin_isocalendar: yes
