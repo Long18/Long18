@@ -29,8 +29,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-name: generate animation
-
 on:
   # run automatically every 6 hours
   schedule:
