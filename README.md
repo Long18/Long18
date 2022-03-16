@@ -20,8 +20,8 @@
         <details><summary>Default algorithm</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.svg" alt=""></img></details>
         <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.languages.details.svg" alt=""></img></details>
         <img width="900" height="1" alt="">
-      </td>
-      <th><a>📌 Starred topics</a></th>
+
+<th><a>📌 Starred topics</a></th>
     <th><a>🌟 Recently starred repositories</a></th>
   </tr>
   <tr>
@@ -51,7 +51,11 @@
         <img width="900" height="1" alt="">
       </td>
   </tr>
+      </td>
 </table>
+
+
+
 
 # 💫About Me :
 
