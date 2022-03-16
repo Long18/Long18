@@ -1,5 +1,19 @@
 name: Full-year calendar
-uses: lowlighter/metrics@latest
+
+
+on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master", "template"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+
+
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.METRICS_TOKEN }}
