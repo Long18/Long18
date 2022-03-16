@@ -10,6 +10,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: long18/long18@latest
+      - uses: long18/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }} 
