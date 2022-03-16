@@ -22,4 +22,5 @@ jobs:
 
           # Options 
           filename: metrics.plugin.isocalendar.svg
+          base: ""
           plugin_isocalendar: yes 
