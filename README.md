@@ -81,7 +81,7 @@
 
 <tr>
   <th colspan="2" align="center">
-    <h3><a> Commits Game </a></h3>
+    <h3><a color-background:white> Commits Game </a></h3>
       <img alt="" width="800" src="https://raw.githubusercontent.com/Long18/Long18/output/github-contribution-grid-snake.svg" alt="Commits Game"></img>
   </th>
 </tr>
