@@ -25,4 +25,4 @@ jobs:
           user: Long18
           template: classic
           base: header, activity, community, repositories, metadata
-          plugin_isocalendar: yes
+          plugin_isocalendar: yes 
