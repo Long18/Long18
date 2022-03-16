@@ -22,7 +22,6 @@ jobs:
 
           # Options 
           filename: metrics.plugin.languages.details.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: >-
