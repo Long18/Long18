@@ -24,6 +24,7 @@ jobs:
           template: repository
           filename: metrics.repository.svg
           user: Long18
+          repo: Long18
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
