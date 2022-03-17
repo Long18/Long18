@@ -1,0 +1,27 @@
+name: User
+on:
+  # Schedule updates (each hour)
+  schedule: [{ cron: "0 * * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+
+          # Options
+          filename: metrics.plugin.introduction.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: github
+          base: header
+          plugin_introduction: yes
