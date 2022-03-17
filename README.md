@@ -67,9 +67,9 @@
 
 <tr>
  <td align="center">
-    <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.repository.svg" alt=""></img></details>
     <details><summary>User</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
+    <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.repository.svg" alt=""></img></details>
   </td>
 
   <td  align="center">
@@ -84,18 +84,18 @@
 </tr>
 
 <tr>
-    <td colspan="2" align="center">
-      <details open><summary>For anime watchers</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.svg" alt=""></img></details>
-      <details><summary>For manga readers</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
-      <details open><summary>For waifus simp</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
-      <img width="900" height="1" alt="">
-    </td>
-  </tr>
+  <td colspan="2" align="center">
+    <details open><summary>For anime watchers</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.svg" alt=""></img></details>
+    <details><summary>For manga readers</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.manga.svg" alt=""></img></details>
+    <details open><summary>For waifus simp</summary><img src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.anilist.characters.svg" alt=""></img></details>
+    <img width="900" height="1" alt="">
+  </td>
+</tr>
 
 <tr>
   <th colspan="2" align="center">
     <h3><a>🌟 Commits Game 🌟</a></h3>
-      <img alt="" width="900" height="1" src="https://raw.githubusercontent.com/Long18/Long18/output/github-contribution-grid-snake.svg" alt="Commits Game"></img>
+      <img alt="" width="800" src="https://raw.githubusercontent.com/Long18/Long18/output/github-contribution-grid-snake.svg" alt="Commits Game"></img>
   </th>
 </tr>
 
