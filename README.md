@@ -5,7 +5,7 @@
     <p>I am a Game developer from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/></p>
     <a>
       👨‍💻 I’m working on a project ...</br>
-      📚 I’m study Unity & Unreal Engine
+      📚 I’m studying Unity & Unreal Engine
     </a>
   </th>
 </tr>
