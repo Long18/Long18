@@ -67,9 +67,9 @@
 
 <tr>
  <td align="center">
-    <details><summary>User</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.svg" alt=""></img></details>
+    <details open><summary>User</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.svg" alt=""></img></details>
     <img width="900" height="1" alt="">
-    <details open><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.repository.svg" alt=""></img></details>
+    <details><summary>Repository</summary><img alt="" width="400" src="https://raw.githubusercontent.com/Long18/Long18/main/metrics.plugin.introduction.repository.svg" alt=""></img></details>
   </td>
 
   <td  align="center">

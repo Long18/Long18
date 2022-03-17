@@ -28,3 +28,4 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: favorites, reading
           plugin_anilist_limit: 1
+          plugin_anilist_user: william18
