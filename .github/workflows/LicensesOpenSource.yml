@@ -23,6 +23,7 @@ jobs:
           # Options
           filename: metrics.plugin.licenses.ratio.svg
           base: ""
+          user: Long18
           template: repository
           repo: metrics
           plugin_licenses: yes

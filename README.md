@@ -2,10 +2,10 @@
 <tr>
   <th colspan="2" align="center">
     <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
-    <p>I wanna be Game-dev from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/></p>
+    <p>I am a Game developer from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/></p>
     <a>
-      👨‍💻 I’m currently working on project...</br>
-      📚 I’m currently learning Unity & Unreal Engine
+      👨‍💻 I’m working on a project ...</br>
+      📚 I’m study Unity & Unreal Engine
     </a>
   </th>
 </tr>
