@@ -23,9 +23,8 @@ jobs:
           # Options
           template: repository
           filename: metrics.repository.svg
-          user: Long18
-          repo: Long18
+          user: long18
+          repo: long18
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
