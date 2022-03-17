@@ -93,10 +93,13 @@
 </tr>
 
 <tr>
-  <th colspan="2" align="center">
-    <h3><a>🌟 Commits Game 🌟</a></h3>
+  <th colspan="2"><h3>🌟 Commits Game 🌟</h3></th>
+</tr>
+
+<tr>
+  <td colspan="2" align="center">
       <img alt="" width="800" src="https://raw.githubusercontent.com/Long18/Long18/output/github-contribution-grid-snake.svg" alt="Commits Game"></img>
-  </th>
+  </td>
 </tr>
 
 </table>
