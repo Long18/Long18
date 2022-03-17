@@ -1,4 +1,5 @@
 name: "📜 Repository licenses"
+on:
 category: github
 description: This plugin display repository license informations like permissions, limitations and conditions along with additional stats about dependencies.
 examples:
