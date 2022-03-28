@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.52452358476916" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="300.52452358476916" y="0" width="62.24422923752551" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="362.76875282229463" y="0" width="51.62031198439642" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="414.38906480669107" y="0" width="45.61093519330893" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="300.71587426142196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="300.71587426142196" y="0" width="61.99096925404706" height="8" fill="#15A13C"/>
+                    <rect mask="url(#languages-bar)" x="362.706843515469" y="0" width="51.653179790023124" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="414.3600233054921" y="0" width="45.6399766945079" height="8" fill="#ff0000"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -58,12 +58,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#15A13C" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                Berry
                             </div>
                             <small>
-                                <div>149 lines</div>
+                                <div>4 lines</div>
                                 <div>1.02 MB</div>
                             </small>
                         </div>
