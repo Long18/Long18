@@ -16,16 +16,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 235 edited files from 69 commits over last 14 days</small>
+                <small>estimation from 234 edited files from 69 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.3500823846391" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="230.3500823846391" y="0" width="115.66336829073553" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="346.01345067537466" y="0" width="65.40831980191801" height="8" fill="#15A13C"/>
-                    <rect mask="url(#languages-bar)" x="411.4217704772926" y="0" width="48.57822952270736" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.8959538112859" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="284.8959538112859" y="0" width="119.73557459994825" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="404.63152841123417" y="0" width="47.078258321356984" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="451.70978673259117" y="0" width="8.290213267408838" height="8" fill="#a86454"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,20 +37,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>167 kB</div>
-                                <div>50.08%</div>
+                                <div>198 kB</div>
+                                <div>61.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#15A13C" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Berry
+                                Hack
                             </div>
                             <small>
-                                <div>47.5 kB</div>
-                                <div>14.22%</div>
+                                <div>32.8 kB</div>
+                                <div>10.23%</div>
                             </small>
                         </div>
                     </section>
@@ -63,20 +63,20 @@
                                 Blade
                             </div>
                             <small>
-                                <div>84 kB</div>
-                                <div>25.14%</div>
+                                <div>83.5 kB</div>
+                                <div>26.03%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#a86454" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Hack
+                                Pug
                             </div>
                             <small>
-                                <div>35.3 kB</div>
-                                <div>10.56%</div>
+                                <div>5.78 kB</div>
+                                <div>1.8%</div>
                             </small>
                         </div>
                     </section>
