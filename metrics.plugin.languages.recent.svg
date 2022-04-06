@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.9414484703592" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="365.9414484703592" y="0" width="41.944798362275066" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="407.88624683263424" y="0" width="31.94640172934591" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="439.8326485619802" y="0" width="20.167351438019843" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="365.99384333433557" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="365.99384333433557" y="0" width="41.95080394599316" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="407.9446472803287" y="0" width="31.950975759918677" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="439.8956230402474" y="0" width="20.10437695975259" height="8" fill="#878787"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                             </div>
                             <small>
                                 <div>555 kB</div>
-                                <div>79.55%</div>
+                                <div>79.56%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -50,7 +50,7 @@
                             </div>
                             <small>
                                 <div>48.5 kB</div>
-                                <div>6.94%</div>
+                                <div>6.95%</div>
                             </small>
                         </div>
                     </section>
@@ -75,8 +75,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>30.6 kB</div>
-                                <div>4.38%</div>
+                                <div>30.5 kB</div>
+                                <div>4.37%</div>
                             </small>
                         </div>
                     </section>
