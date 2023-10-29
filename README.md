@@ -1,11 +1,9 @@
 <table>
 <tr>
   <th colspan="2" align="center">
-    <h3><a href="https://www.facebook.com/William.2418/">🧩 Hello World 🌍 I'm William! 👋 </a></h3>
-    <p>I am a Game developer from VietNam <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/></p>
-    <a>
-      📚 I’m studying and working with Unity
-    </a>
+    <h3><a href="https://www.facebook.com/William.2418/"><img width="18px" src="/assets/id-flag.png"/> Hello World 🌍 I'm William! 👋 </a></h3>
+	  <r>
+    <h4>As a Game Developer hailing from Vietnam, I am truly honored by your interest in my profile. Allow me to share a glimpse of my distinguished accomplishments cultivated over the course of my professional journey.</h4>
   </th>
 </tr>
 
