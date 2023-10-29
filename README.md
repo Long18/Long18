@@ -3,7 +3,7 @@
   <th colspan="2" align="center">
     <h3><a href="https://www.facebook.com/William.2418/"><img width="18px" src="/assets/id-flag.png"/> Hello World 🌍 I'm William! 👋 </a></h3>
 	  <r>
-    <h4>As a Game Developer hailing from Vietnam, I am truly honored by your interest in my profile. Allow me to share a glimpse of my distinguished accomplishments cultivated over the course of my professional journey.</h4>
+    <h4><a>As a Game Developer hailing from Vietnam, I am truly honored by your interest in my profile. Allow me to share a glimpse of my distinguished accomplishments cultivated over the course of my professional journey.</a></h4>
   </th>
 </tr>
 
@@ -76,6 +76,15 @@
   </td>
 </tr>
 
+<tr>
+  <th colspan="2"><h3>🌟 Commits Game 🌟</h3></th>
+</tr>
+
+<tr>
+  <td colspan="2" align="center">
+      <img alt="" width="800" src="https://raw.githubusercontent.com/Long18/Long18/output/github-contribution-grid-snake.svg" alt="Commits Game"></img>
+  </td>
+</tr>
 </table>
 
 # 🌍 Socials
