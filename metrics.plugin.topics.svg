@@ -16,19 +16,19 @@
                 <div class="row">
                     <section>
                         <div class="topics fill-width">
-                            <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
-                            <div class="label" title="Android is an operating system built by Google designed for mobile devices.">android</div>
                             <div class="label" title="C++ is a general purpose and object-oriented programming language.">c++</div>
                             <div class="label" title="C is a general purpose programming language that first appeared in 1972.">c</div>
-                            <div class="label" title="Algorithms are self-contained sequences that carry out a variety of tasks.">algorithm</div>
-                            <div class="label" title="Bootstrap is an HTML, CSS, and JavaScript framework.">bootstrap</div>
-                            <div class="label" title="Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.">bitcoin</div>
-                            <div class="label" title="Angular is an open source web application platform.">angular</div>
-                            <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="A bot is an application that runs automated tasks over the Internet.">bot</div>
-                            <div class="label" title="3D refers to the use of three-dimensional graphics, modeling, and animation in various industries.">3d</div>
-                            <div class="label" title="Chrome extensions enable users to customize the Chrome browsing experience.">chrome extension</div>
-                            <div class="label" title="ASP.NET, .NET, Ajax, React Native, COVID-19, github-config">and 6 more...</div>
+                            <div class="label" title="Git is the most widely used version control system.">git</div>
+                            <div class="label" title="C# (&amp;quot;C sharp&amp;quot;) is an object-oriented and type-safe programming language.">c#</div>
+                            <div class="label" title=".NET is a free, cross-platform, open source developer platform.">.net</div>
+                            <div class="label" title="Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.">unity</div>
+                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
+                            <div class="label" title="A game engine is a software framework used to develop and create video games.">game engine</div>
+                            <div class="label" title="Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.">unreal engine</div>
+                            <div class="label" title="Vim is a console-run text editor program.">vim</div>
+                            <div class="label" title="Minecraft is a sandbox video game.">minecraft</div>
+                            <div class="label" title="SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.">spacevim</div>
+                            <div class="label" title="github-config">and 1 more...</div>
                         </div>
                     </section>
                 </div>
