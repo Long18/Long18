@@ -1,8 +1,8 @@
-[<img align="left" width="390" alt="🤡" src="https://raw.githubusercontent.com/Long18/Long18/metrics-renders/general.svg">](#)
+[<img align="left" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/general.svg">](#)
 [<img align="right" width="150" alt="🤡" src="https://count.getloli.com/get/@:long18?theme=rule34">](https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw)
-[<img align="right" width="390" alt="🦑" src="https://raw.githubusercontent.com/Long18/Long18/metrics-renders/medias.svg">](#)
-[<img align="left" width="390" alt="🤡" src="https://raw.githubusercontent.com/Long18/Long18/metrics-renders/sponsors.svg">](https://github.com/sponsors/long18)
-[<img align="right" width="390" alt="🤡" src="https://raw.githubusercontent.com/Long18/Long18/metrics-renders/achievements.svg">](#)
+[<img align="right" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/medias.svg">](#)
+[<img align="left" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/sponsors.svg">](https://github.com/sponsors/long18)
+[<img align="right" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/achievements.svg">](#)
 
 
 ## 💰You can help me by Donating
