@@ -1,0 +1,37 @@
+{
+  "scripts": {
+    "release": "standard-version"
+  },
+  "name": "long18",
+  "description": "[<img align=\"left\" width=\"390\" alt=\"🤡\" src=\"https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/general.svg\">](#)\r [<img align=\"right\" width=\"150\" alt=\"🤡\" src=\"https://count.getloli.com/get/@:long18?theme=rule34\">](https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw)\r [<img align=\"right\" width=\"390\" alt=\"🤡\" src=\"https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/medias.svg\">](#)\r [<img align=\"left\" width=\"390\" alt=\"🤡\" src=\"https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/sponsors.svg\">](https://github.com/sponsors/long18)\r [<img align=\"right\" width=\"390\" alt=\"🤡\" src=\"https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/b87ce7793cf24a2101475e66dee5bde3c7a03929/achievements.svg\">](#)",
+  "version": "2.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^4.1.1",
+    "debug": "^4.3.4",
+    "fs-extra": "^8.1.0",
+    "git-changelog": "^2.0.0",
+    "graceful-fs": "^4.2.11",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.21",
+    "ms": "^2.1.2",
+    "universalify": "^0.1.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Long18/Long18.git"
+  },
+  "keywords": [
+    "Long18",
+    "Personal",
+    "Showcase"
+  ],
+  "author": "William - Thành Long",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Long18/Long18/issues"
+  },
+  "homepage": "https://github.com/Long18/Long18#readme"
+}
