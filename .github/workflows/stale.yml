@@ -3,6 +3,15 @@ name: Stale issues, pr and runs
 on:
   schedule: [{cron: "30 1 * * *"}] # Schedule to run the workflow every day at 1:30 AM
   workflow_dispatch:
+    inputs:
+      owner:
+        description: 'Owner Name'
+        required: true
+        type: string
+      repo:
+        description: 'Repository Name'
+        required: true
+        type: string
 
 jobs:
   stale:
@@ -41,7 +50,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Run script
-        run: ./delete_workflows.sh long18/long18
+        run: git update-index --chmod=+x ./delete_workflows.sh  
         working-directory: .github/actions/ghcr-clean
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          OWNER: ${{ inputs.owner }}
+          REPO: ${{ inputs.repo }}

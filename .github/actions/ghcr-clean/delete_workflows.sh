@@ -6,13 +6,14 @@ set -e
 # You need to be logged to 'gh' first
 
 # owner/repo syntax
-repo="$1"
+user=${process.env.OWNER}
+repo=${process.env.REPO}
 
 temp_file="workflow_runs.payload"
 rm -rf $temp_file
 
 echo "Fetching workflows..."
-echo $(gh api /repos/${repo}/actions/runs --paginate | jq '{count: .total_count, runs: [.workflow_runs[] | select(.status=="completed") | {id, conclusion}]}') | jq '.' > $temp_file
+echo $(gh api /repos/${user}/${repo}/actions/runs --paginate | jq '{count: .total_count, runs: [.workflow_runs[] | select(.status=="completed") | {id, conclusion}]}') | jq '.' > $temp_file
 
 ids_to_delete=$(cat "$temp_file" | jq -r '.runs | .[] | select((.conclusion!="success") and (.conclusion!="failure")) | .id')
 
@@ -25,7 +26,7 @@ else
 		id="$line"
 		echo "Processing workflow $id"
 		## Workaround for https://github.com/cli/cli/issues/4286 and https://github.com/cli/cli/issues/3937
-		echo -n | gh api --method DELETE /repos/${repo}/actions/runs/${id} --input -
+		echo -n | gh api --method DELETE /repos/${user}/${repo}/actions/runs/${id} --input -
 
 		echo "Stale workflow run with ID $id deleted successfully!"
 	done <<< $ids_to_delete
@@ -41,11 +42,11 @@ else
 	while read -r line; do
 		id="$line"
 		echo "Processing workflow $id"
-		artifact_count=$(gh api /repos/${repo}/actions/runs/${id}/artifacts | jq -r '.total_count')
+		artifact_count=$(gh api /repos/${user}/${repo}/actions/runs/${id}/artifacts | jq -r '.total_count')
 		if [ "${artifact_count}" = "0" ]
 		then
-			gh api --silent /repos/${repo}/actions/runs/${id}/logs || \
-				echo -n | gh api --method DELETE /repos/${repo}/actions/runs/${id} --input - && \
+			gh api --silent /repos/${user}/${repo}/actions/runs/${id}/logs || \
+				echo -n | gh api --method DELETE /repos/${user}/${repo}/actions/runs/${id} --input - && \
 				echo "Workflow run without logs and artifacts with ID $id deleted successfully!"
 		fi
 	done <<< $ids_to_delete
