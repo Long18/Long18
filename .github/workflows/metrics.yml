@@ -4,13 +4,12 @@
 
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}] # Schedule to run every hour
+  schedule: [{ cron: "0 0,12 * * *" }] # Schedule to run at 12:00 AM and 12:00 PM
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-
       - name: 🤡 Medias
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -31,7 +30,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
-          plugin_music_limit: 9
+          plugin_music_limit: 18
 
       - name: 🤡 Achievements
         if: ${{ success() || failure() }}
@@ -77,7 +76,7 @@ jobs:
             html, css, dockerfile, javascript
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 4
+          plugin_languages_limit: 6
           plugin_languages_indepth: yes
           plugin_topics: yes
           plugin_topics_limit: 0
