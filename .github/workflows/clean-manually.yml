@@ -1,0 +1,22 @@
+name: Remove workflow manually
+on:
+  workflow_dispatch:
+    inputs:
+      workflow-name:
+        default: foo
+        description: Name of the workflow to remove
+        required: true
+        type: string
+
+jobs:
+  clean:
+    name: Clean ${{ inputs.workflow-name }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Clean ${{ inputs.workflow-name }}
+        run: sh ./cleaner-manually.sh long18 long18 ${{ inputs.workflow-name }}
+        working-directory: .github/actions
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
