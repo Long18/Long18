@@ -1,25 +1,37 @@
 # Licensed under The Unlicense
 # Feel free to reuse, edit and redistribute this workflow as you wish, no credits needed
 # See https://github.com/lowlighter/metrics for documentation about how to use metrics action
+#
+# Requires repository secret METRICS_TOKEN = classic GitHub PAT (fine-grained not supported).
+# Scopes: gist, public_repo, read:user, read:org (read:org needed for Sponsors plugin).
+# Requires repository secret GIST = gist id that stores the SVG files.
+# Achievements uses dkhokhlov/metrics fork until upstream merges Projects V2 fix
+# (lowlighter/metrics#1706 — Projects classic API was sunset).
 
 name: Metrics
 on:
-  schedule: [{ cron: "0 0,12 * * *" }] # Schedule to run at 12:00 AM and 12:00 PM
+  schedule: [{ cron: "0 0,12 * * *" }]
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
-      - name: 🤡 Medias
+      - name: Medias
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          user: Long18
           filename: medias.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_order: anilist
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          retries: 2
+          retries_delay: 120
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, characters
@@ -32,44 +44,57 @@ jobs:
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_limit: 20
 
-      - name: 🤡 Achievements
+      - name: Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        # Fork with Projects V2 migration; @latest still queries deprecated Projects classic
+        uses: dkhokhlov/metrics@master
         with:
+          user: Long18
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          retries: 2
+          retries_delay: 120
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
 
-      - name: 🤡 Sponsors
+      - name: Sponsors
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          user: Long18
           filename: sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          retries: 2
+          retries_delay: 120
           plugin_sponsors: yes
           plugin_sponsors_past: yes
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount
 
-      - name: 🤡 General
+      - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          user: Long18
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          config_order: base.header, isocalendar, languages, notable, topics
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
+          retries: 2
+          retries_delay: 120
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: >-
