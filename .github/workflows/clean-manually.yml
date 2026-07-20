@@ -12,11 +12,15 @@ jobs:
   clean:
     name: Clean ${{ inputs.workflow-name }}
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v7
       - name: Clean ${{ inputs.workflow-name }}
         run: sh ./cleaner-manually.sh long18 long18 ${{ inputs.workflow-name }}
         working-directory: .github/actions
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
