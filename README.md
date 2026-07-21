@@ -1,5 +1,5 @@
 [<img align="left" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/general.svg?p">](#)
-[<img align="right" width="150" alt="🤡" src="https://moe-counter.glitch.me/get/@long18?theme=asoul">](https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw)
+[<img align="right" width="350" alt="🤡" src="https://count.getloli.com/@long18?theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">](https://www.youtube.com/channel/UCXptkVJhpWBAdQP_jIYflFw)
 [<img align="right" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/medias.svg?p">](#)
 [<img align="left" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/sponsors.svg?p">](https://github.com/sponsors/long18)
 [<img align="right" width="390" alt="🤡" src="https://gist.githubusercontent.com/Long18/3206741620c082528f7d448d5c27fb19/raw/achievements.svg?p">](#)
